@@ -1,4 +1,4 @@
-# Processo, insights e possibilidades aprendidas durante o conteúdo **"Reconhecimento Facial e transformação de imagens em Dados no Azure ML"**
+# Processo, insights e possibilidades aprendidas durante o conteúdo de **"Reconhecimento Facial e transformação de imagens em Dados no Azure ML"**
 
 ## **1. Detectar rostos no Vision Studio:**
 
@@ -16,7 +16,7 @@ Sabendo disso, podemos através da função de [Detectar rostos no Vision Studio
 
 ![Imagem de Exemplo da prática feita](Praticas\DetectfacesinVisionStudio\inputs\store-camera-2.jpg)
 
-**Detalhes de detecção de rosto retornados:**
+**Detalhes de detecção de rosto retornadas:**
 
 ![Detalhes de detecção de rosto retornados através da prática](Praticas\DetectfacesinVisionStudio\outputs\store-camera-2.1.png)
 
@@ -41,6 +41,30 @@ Sabendo disso, podemos através da função de [Ler texto no Vision Studio](http
 
 ![Detalhes do Reconhecimento óptico de caracteres retornados através da prática](Praticas\ReadtextinVisionStudio\outputs\letter.png)
 
-## **3. Analise imagens no Vision Studio:**
+## **3. Analise de imagens no Vision Studio:**
 
+- **Introução**
+
+A análise de imagens por inteligência artificial (IA) é uma área que envolve a extração de informações e insights de imagens digitais usando algoritmos de aprendizado de máquina e processamento de imagem. Isso inclui tarefas como classificação, detecção, segmentação e reconhecimento de elementos nas imagens, como objetos, texto e rostos. 
+
+Essa tecnologia é aplicada em diversos setores, como medicina, automotivo e segurança, e é impulsionada por avanços em algoritmos de aprendizado de máquina, especialmente redes neurais convolucionais. No entanto, questões éticas, como privacidade e viés algorítmico, devem ser consideradas ao desenvolver e usar sistemas de análise de imagens por IA.
+
+Sabendo disso, podemos através da função de [Adicionar legendas às imagens](https://portal.vision.cognitive.azure.com/demo/image-captioning) fazer os nossos testes
+
+- **Exemplo da Analise de imagem realizada**
+
+**Imagem de Exemplo para a Analise de imagem:**
+
+![Imagem de Exemplo da prática feita](Praticas\AnalyzeimagesinVisionStudio\inputs\store-camera-3.jpg)
+
+**Detalhes da Analise de imagem retornados:**
+
+![Detalhes da Analise imagem retornadas através da prática](Praticas\AnalyzeimagesinVisionStudio\outputs\store-camera-3.1.png)
+
+## Referência
+
+ - [DIO - Microsoft Azure AI Fundamentals](https://web.dio.me/track/a088cda7-a37f-451a-b392-46fa7e6ddc55)
+ - [Detect faces in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04-face.html)
+ - [Read text in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/05-ocr.html)
+  - [Analyze images in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03-image-analysis.html)
 
