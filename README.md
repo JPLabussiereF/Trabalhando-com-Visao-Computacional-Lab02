@@ -29,7 +29,7 @@ A extração de texto de imagens por inteligência artificial (*IA*) é uma téc
 
 Essa tecnologia tem várias aplicações, como digitalização de documentos, tradução automática, acessibilidade e reconhecimento de placas de veículos. Com os avanços em aprendizado profundo, a precisão e a eficácia desse processo têm melhorado significativamente nos últimos anos.
 
-Sabendo disso, podemos através da função de [Ler texto no Vision Studio](https://portal.vision.cognitive.azure.com/demo/extract-text-from-images) fazer os nossos testes
+Sabendo disso, podemos através da função de [Ler texto no Vision Studio](https://portal.vision.cognitive.azure.com/demo/extract-text-from-images) fazer os nossos testes.
 
 - **Exemplo de Reconhecimento óptico de caracteres realizado**
 
@@ -49,7 +49,7 @@ A análise de imagens por inteligência artificial (IA) é uma área que envolve
 
 Essa tecnologia é aplicada em diversos setores, como medicina, automotivo e segurança, e é impulsionada por avanços em algoritmos de aprendizado de máquina, especialmente redes neurais convolucionais. No entanto, questões éticas, como privacidade e viés algorítmico, devem ser consideradas ao desenvolver e usar sistemas de análise de imagens por IA.
 
-Sabendo disso, podemos através da função de [Adicionar legendas às imagens](https://portal.vision.cognitive.azure.com/demo/image-captioning) fazer os nossos testes
+Sabendo disso, podemos através da função de [Adicionar legendas às imagens](https://portal.vision.cognitive.azure.com/demo/image-captioning) fazer os nossos testes.
 
 - **Exemplo da Analise de imagem realizada**
 
