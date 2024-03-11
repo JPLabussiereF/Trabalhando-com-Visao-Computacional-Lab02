@@ -14,11 +14,11 @@ Sabendo disso, podemos através da função de [Detectar rostos no Vision Studio
 
 **Imagem de Exemplo:**
 
-![Imagem de Exemplo da prática feita](Praticas\DetectfacesinVisionStudio\inputs\store-camera-2.jpg)
+![Imagem de Exemplo da prática feita](https://github.com/JPLabussiereF/Trabalhando-com-Visao-Computacional-Lab02/blob/main/Praticas/DetectfacesinVisionStudio/inputs/store-camera-2.jpg?raw=true)
 
 **Detalhes de detecção de rosto retornadas:**
 
-![Detalhes de detecção de rosto retornados através da prática](Praticas\DetectfacesinVisionStudio\outputs\store-camera-2.1.png)
+![Detalhes de detecção de rosto retornados através da prática](https://github.com/JPLabussiereF/Trabalhando-com-Visao-Computacional-Lab02/blob/main/Praticas/DetectfacesinVisionStudio/outputs/store-camera-2.1.png?raw=true)
 
 
 ## **2. Ler texto no Vision Studio:**
@@ -35,11 +35,11 @@ Sabendo disso, podemos através da função de [Ler texto no Vision Studio](http
 
 **Imagem de Exemplo do Reconhecimento óptico de caracteres:**
 
-![Imagem de Exemplo da prática feita](Praticas\ReadtextinVisionStudio\inputs\letter.jpg)
+![Imagem de Exemplo da prática feita](https://github.com/JPLabussiereF/Trabalhando-com-Visao-Computacional-Lab02/blob/main/Praticas/ReadtextinVisionStudio/inputs/letter.jpg?raw=true)
 
 **Detalhes do Reconhecimento óptico de caracteres retornados:**
 
-![Detalhes do Reconhecimento óptico de caracteres retornados através da prática](Praticas\ReadtextinVisionStudio\outputs\letter.png)
+![Detalhes do Reconhecimento óptico de caracteres retornados através da prática](https://github.com/JPLabussiereF/Trabalhando-com-Visao-Computacional-Lab02/blob/main/Praticas/ReadtextinVisionStudio/outputs/letter.png?raw=true)
 
 ## **3. Analise de imagens no Vision Studio:**
 
@@ -55,11 +55,11 @@ Sabendo disso, podemos através da função de [Adicionar legendas às imagens](
 
 **Imagem de Exemplo para a Analise de imagem:**
 
-![Imagem de Exemplo da prática feita](Praticas\AnalyzeimagesinVisionStudio\inputs\store-camera-3.jpg)
+![Imagem de Exemplo da prática feita](https://github.com/JPLabussiereF/Trabalhando-com-Visao-Computacional-Lab02/blob/main/Praticas/AnalyzeimagesinVisionStudio/inputs/store-camera-3.jpg?raw=true)
 
 **Detalhes da Analise de imagem retornados:**
 
-![Detalhes da Analise imagem retornadas através da prática](Praticas\AnalyzeimagesinVisionStudio\outputs\store-camera-3.1.png)
+![Detalhes da Analise imagem retornadas através da prática](https://github.com/JPLabussiereF/Trabalhando-com-Visao-Computacional-Lab02/blob/main/Praticas/AnalyzeimagesinVisionStudio/outputs/store-camera-3.1.png?raw=true)
 
 ## Referência
 
